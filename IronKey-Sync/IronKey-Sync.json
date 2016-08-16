@@ -1,0 +1,12 @@
+[
+    {
+        "Destination":  "\\sync-folder",
+        "Source":  "X:\\sync-folder",
+        "Type":  "Mirror"
+    },
+    {
+        "Destination":  "\\sync-folder2",
+        "Source":  "\\\\file-server-01\\fileshare\\sync-folder2",
+        "Type":  "Mirror"
+    }
+]
